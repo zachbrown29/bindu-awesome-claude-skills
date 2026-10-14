@@ -907,6 +907,12 @@ Skills for marketing professionals, content creators, and growth teams.
   - The document never enters the model's context — upload, then get a result path back
   - Works with Claude Code, Codex, Cursor, and other SKILL.md clients
 
+- [zachbrown29/lintel-marketing-playbooks](https://github.com/zachbrown29/lintel-marketing-playbooks) ![Stars](https://img.shields.io/github/stars/zachbrown29/lintel-marketing-playbooks?style=flat-square)
+  - Diagnoses the marketing problem first, then answers from the one framework that owns it
+  - Build sequences, decision rules with thresholds, and benchmarks for seed to Series B B2B software
+  - A router plus 13 topic files, so a question loads one file, not the whole library
+  - States what it does not cover instead of bluffing, and marks which numbers are judgement
+
 - [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) ![Stars](https://img.shields.io/github/stars/cognyai/claude-code-marketing-skills?style=flat-square)
   - 5 free marketing skills, no account required
   - SEO Audit, Landing Page Review, Competitor Analysis
